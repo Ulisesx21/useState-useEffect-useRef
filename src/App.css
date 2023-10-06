@@ -1,0 +1,17 @@
+button {
+  padding: 4px 8px;
+  background: rgb(0, 0, 0);
+  border: 1px solid white;
+  border-radius: 3px;
+  margin: 0 3px;
+  color: white;
+  cursor: pointer;
+}
+
+.App {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  justify-content: column;
+  min-height: 100vh;
+}
